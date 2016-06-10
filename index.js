@@ -44,7 +44,7 @@ $(document).ready(function() {
             $('#planetHeader').html("Welcome to " + myPlanet + "!!");
         }
 
-        //Adds a red background when you press the button//
+        //Adds a light gray background when you press the button//
 
         $('#answer').css('background', '#cccccc');
     })
